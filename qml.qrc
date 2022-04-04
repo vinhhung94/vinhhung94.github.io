@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>UI.qml</file>
+        <file>FirstPage.qml</file>
+        <file>TwoPage.qml</file>
+        <file>ThreePage.qml</file>
+        <file>FourPage.qml</file>
+        <file>StartingPage.qml</file>
+        <file>../../../Downloads/h.png</file>
+        <file>../../../Downloads/setting.png</file>
+        <file>../../../Downloads/h.jpeg</file>
+        <file>../../../Downloads/b.jpeg</file>
+        <file>../../../Downloads/c.jpeg</file>
+        <file>../../../Downloads/g.jpeg</file>
+        <file>../../../Downloads/b1.jpeg</file>
+        <file>../../../Downloads/b2.jpeg</file>
+        <file>../../../Downloads/b3.jpeg</file>
+        <file>../../../Downloads/b4.jpeg</file>
+    </qresource>
+</RCC>
